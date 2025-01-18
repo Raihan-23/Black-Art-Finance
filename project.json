@@ -1,0 +1,25 @@
+{
+    "version": 2,
+    "routes": [
+      {
+        "src": "/",
+        "dest": "/index.html"
+      },
+      {
+        "src": "/about",
+        "dest": "/about.html"
+      },
+      {
+        "src": "/contact",
+        "dest": "/contact-us.html"
+      },
+      {
+        "src": "/gallery",
+        "dest": "/our-gallery.html"
+      },
+      {
+        "src": "/services",
+        "dest": "/services.html"
+      }
+    ]
+  }
